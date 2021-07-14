@@ -1,0 +1,13 @@
+table {
+  border-collapse: collapse;
+  background-color: whitesmoke;
+}
+td {
+  width: 50px;
+  height: 50px;
+}
+
+tr {
+  width: 50px;
+  height: 50px;
+}
